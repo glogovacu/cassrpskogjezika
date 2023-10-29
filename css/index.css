@@ -1,3 +1,7 @@
+@font-face {
+    font-family: Mulish;
+    src: url("font/Mulish-Black.ttf");
+    }
 .container{
     display: flex;
     background-color: #fff;
@@ -8,10 +12,12 @@
     margin-bottom: 10%;
     border: #000 solid 2px;
     border-radius: 25px;
+    padding: 4%;
 }
 .row{
     flex: 1;
 }
-body{
-    background-color: #5cb6ff;
+select{
+    background:none;
+    border-radius: 25px;
 }
