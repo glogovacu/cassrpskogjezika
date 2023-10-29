@@ -1,6 +1,10 @@
 .container{
     display: flex;
 }
+.row{
+    flex: 1;
+}
 .centered-div{
     justify-content: center;
+    flex: 1;
 }
