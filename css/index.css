@@ -15,7 +15,7 @@ select{
     padding: 5px;
 }
 body{
-    background-image: url("/img/decije-sajt90.jpg");
+    background-image: url("../img/decije-sajt90.jpg");
     background-size: cover;
     background-position: center center;
 }
