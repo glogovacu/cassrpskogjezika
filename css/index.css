@@ -1,13 +1,17 @@
 .container{
     display: flex;
+    background-color: #fff;
+    flex: 1;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    border: #000 solid 2px;
+    border-radius: 25px;
 }
 .row{
     flex: 1;
 }
-.centered-div{
-    justify-content: center;
-    flex: 1;
-}
 body{
-    background-color: #76edff;
+    background-color: #5cb6ff;
 }
